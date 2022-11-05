@@ -1,0 +1,29 @@
+.productContainer{
+    margin-top: 5%; 
+    /* margin-left: 5%; */
+    padding: 2%;
+}
+.columnDiv{
+    background: #AAC4FF;
+    border: 3px solid white;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    /* border: 1px white solid; */
+
+}
+.productImages {
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+}
+.productLinkCategory {
+    text-decoration: none; 
+    color: #7DE5ED;
+}
+.viewMoreButton {
+    background-color: #5837D0 ;
+}
+.viewMoreButton:hover{
+    background-color: #7c5af5;
+    color: white;
+}
